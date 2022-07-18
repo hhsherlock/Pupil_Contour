@@ -35,7 +35,7 @@ def max_min(pic):
 
 
 
-capture = cv.VideoCapture('photos/eye-v-short.mov')
+capture = cv.VideoCapture('eye-v-short.mov')
 
 c = 1
 eyes_roi = []
